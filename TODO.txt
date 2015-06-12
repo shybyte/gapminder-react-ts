@@ -1,0 +1,10 @@
+Doing:
+
+
+TODO:
+
+
+Done:
+    * Project setup
+    * Use ReactJS
+    * Use Ramda
