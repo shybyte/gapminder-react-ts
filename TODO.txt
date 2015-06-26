@@ -1,10 +1,15 @@
 Doing:
-
+    * Display static bubble chart
 
 TODO:
-
+    * Show Slider
+    * Display motion chart
+        * Show Play Button
 
 Done:
     * Project setup
     * Use ReactJS
     * Use Ramda
+    * Get some data from gapminder
+    * Read csv by ajax
+    * Parse csv

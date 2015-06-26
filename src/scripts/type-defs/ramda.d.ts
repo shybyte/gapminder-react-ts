@@ -1447,6 +1447,7 @@ declare module R {
          * separator.
          */
         split(sep: string, str: string): string[];
+        split(sep: string): (str: string) => string[];
 
         // Data Analysis and Grouping Functions
         // ------------------------------------

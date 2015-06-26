@@ -12,6 +12,7 @@ gulp.task('bower', function () {
 var tsProject = ts.createProject({
   typescript: require('typescript'),
   noImplicitAny: true,
+  module: 'amd',
   out: 'gapminder.js'
 });
 
